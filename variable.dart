@@ -1,6 +1,7 @@
 void main(){
 
-  var nilai = 100; // inisialisasi langsung
+  var nilai = 100; // inisialisasi langsung bisa menggunakan kata kunci var
+
   int data_integer = 104;
   double data_desimal = 0.90;
 
